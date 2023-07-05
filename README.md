@@ -14,4 +14,3 @@
 ## UPDATES
 
 추후에 필요하다고 생각되는 기능이 있으시다면 issue에 남겨주세요.
-# sveltekit-boilerplate
